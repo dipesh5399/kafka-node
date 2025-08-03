@@ -1,0 +1,5 @@
+Example is incomplete.
+
+command for docker deployment: docker-compose up
+
+Referrence video: https://www.youtube.com/watch?v=wdsiQEa5mQY
